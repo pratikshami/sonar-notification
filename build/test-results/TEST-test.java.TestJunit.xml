@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.TestJunit" tests="3" skipped="0" failures="0" errors="0" timestamp="2015-06-09T11:09:56" hostname="Sudhanshusr" time="0.0">
+  <properties/>
+  <testcase name="testgetsetcity" classname="test.java.TestJunit" time="0.0"/>
+  <testcase name="testgetsetcode" classname="test.java.TestJunit" time="0.0"/>
+  <testcase name="testgetsetname" classname="test.java.TestJunit" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,6 @@
+Testsuite: test.java.TestJunit
+Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 0.015 sec
+
+Testcase: testgetsetcity took 0 sec
+Testcase: testgetsetcode took 0 sec
+Testcase: testgetsetname took 0 sec
